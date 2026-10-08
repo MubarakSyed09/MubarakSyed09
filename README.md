@@ -111,7 +111,7 @@ Python desktop application for hostel mess food selection. Features QR-based stu
 | Platform | Profile |
 |----------|---------|
 | 💻 GitHub | [MubarakSyed09](https://github.com/MubarakSyed09) |
-| 🔗 LinkedIn | linkedin.com/in/mubarak-syed-29ab83435 |
+| 🔗 LinkedIn | https://www.linkedin.com/in/mubarak-syed-29ab83435/ |
 | 🧠 LeetCode | https://leetcode.com/u/Mubarak_Syed09/ |
 
 ---
