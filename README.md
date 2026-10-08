@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mubarak Sayyad
+# Hi 👋 I'm Mubarak Syed
 
 3rd Year Computer Science Engineering student at VFSTR — building full-stack and AI-driven applications while strengthening backend engineering and DSA fundamentals.
 
@@ -111,9 +111,8 @@ Python desktop application for hostel mess food selection. Features QR-based stu
 | Platform | Profile |
 |----------|---------|
 | 💻 GitHub | [MubarakSyed09](https://github.com/MubarakSyed09) |
-| 🔗 LinkedIn | _[Add your LinkedIn URL here]_ |
-| 🧠 LeetCode | _[Add your LeetCode URL here]_ |
-| 🍴 CodeChef | _[Add your CodeChef URL here]_ |
+| 🔗 LinkedIn | linkedin.com/in/mubarak-syed-29ab83435 |
+| 🧠 LeetCode | https://leetcode.com/u/Mubarak_Syed09/ |
 
 ---
 
